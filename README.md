@@ -1,4 +1,4 @@
-<img width="1915" height="902" alt="Screenshot 2026-02-17 140610" src="https://github.com/user-attachments/assets/65d26543-1c3a-43e4-a4a9-08718cd1a823" /><img width="1915" height="902" alt="Screenshot 2026-02-17 140610" src="https://github.com/user-attachments/assets/65d26543-1c3a-43e4-a4a9-08718cd1a823" /># 💳 Online Payment Fraud Detection System
+<img width="1884" height="911" alt="Screenshot 2026-02-17 140553" src="https://github.com/user-attachments/assets/0e8c0424-8551-4b7c-9288-aace5474821e" /># 💳 Online Payment Fraud Detection System
 
 A Machine Learning web application that predicts whether an online transaction is fraudulent or legitimate using XGBoost classifier.
 
