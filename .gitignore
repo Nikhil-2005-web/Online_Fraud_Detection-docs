@@ -1,0 +1,8 @@
+*.pkl
+*.csv
+*.zip
+*.mp4
+*.mov
+*.avi
+venv/
+__pycache__/
